@@ -1,0 +1,10 @@
+#################
+## VS
+#################
+
+HelloWorld/bin/
+HelloWorld/obj/
+HelloWorld.Tests/bin/
+HelloWorld.Tests/obj/
+packages/
+
